@@ -54,7 +54,7 @@ import { TheCard } from 'flowbite-vue'
         <the-card variant="image" img-src="https://sneakers.id/images/products/DZ5485-400/0_2_1800x1800.jpg"      img-alt="Desk">
           <br>
       
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">AIR JORDAN 1 RETRO HIGH UNC TOE</h5>
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">AIR JORDAN 1 RETRO HIGH UNC <br> TOE</h5>
              <p class="font-normal text-gray-700 dark:text-gray-400">
               RP. <s>3.999.000</s> 3.499.000
               <br>
