@@ -13,7 +13,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
           <NavbarLink is-active >Home</NavbarLink>
           <NavbarLink>Shop</NavbarLink>
           <NavbarLink>About</NavbarLink>
-          <NavbarLink>Contact</NavbarLink>
+          <NavbarLink>Services</NavbarLink>
         </NavbarCollapse>
       </template>
       <template #right-side>
